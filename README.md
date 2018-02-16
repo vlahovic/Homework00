@@ -77,3 +77,7 @@ In order to successfully complete homework please follow steps given below.
   
 
   If you see message `Hello World!` in PyCharm `Run` console you have completed this homework successfully.
+  
+  ---
+  
+  If you need help with your homework please contact teaching assistant.
